@@ -1,0 +1,4 @@
+YSS
+===
+
+Yii Simple Shop
